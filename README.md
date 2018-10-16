@@ -1,7 +1,12 @@
 # sunct
-##week1
-[自我介紹]
+
+#Week1
+
+- [自我介紹](https://sunctsun.github.io/sunct/w01/intro.html)
+##Week2
+-
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mzk0NzQ3MiwzODAxOTA1NjZdfQ==
+eyJoaXN0b3J5IjpbLTEzNjA5NDMyODIsMzgwMTkwNTY2XX0=
 -->
